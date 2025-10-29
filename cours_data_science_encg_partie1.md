@@ -292,7 +292,7 @@ plt.show()
 
 
 ```
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c07ed98a-e1e2-460d-9438-ff4ba579ae5a" />
+<img width="1389" height="989" alt="image" src="https://github.com/user-attachments/assets/5c6535a1-a7d8-401e-9ff4-ef27bb3cbcc6" />
 
 
 ### 2.3 Statistiques Inférentielles
