@@ -2,7 +2,8 @@
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
 <img width="1389" height="989" alt="image1" src="https://github.com/user-attachments/assets/8a62329a-9eb8-4bab-9035-5b9724f8f8c3" />
 # S. ALLAMI
-![SAFAE ALLAMI](https://github.com/user-attachments/assets/a9c0be90-504f-47f2-a4d7-e911f7e99e37)
+![SAFAE ALLAMI]
+https://github.com/user-attachments/assets/a9c0be90-504f-47f2-a4d7-e911f7e99e37
 
 ---
 
