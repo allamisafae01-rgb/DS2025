@@ -1,8 +1,8 @@
 # COURS DE SCIENCE DES DONNÉES
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
-<img width="1389" height="989" alt="image1" src="https://github.com/user-attachments/assets/8a62329a-9eb8-4bab-9035-5b9724f8f8c3" />
+
 # S. ALLAMI
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/2a73d750-0547-4e9d-af32-d6c77d7b086c" />
+<img width="320" height="426" alt="image" src="https://github.com/user-attachments/assets/2a73d750-0547-4e9d-af32-d6c77d7b086c" />
 
 
 
@@ -290,10 +290,10 @@ axes[1, 1].set_title('Q-Q Plot (Test de normalité)', fontsize=14, fontweight='b
 plt.tight_layout()
 plt.show()
 
-<img width="1389" height="989" alt="image" src="https://github.com/user-attachments/assets/205345bd-3e65-4d65-806b-a7d4f1041bd6" />
-
 
 ```
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c07ed98a-e1e2-460d-9438-ff4ba579ae5a" />
+
 
 ### 2.3 Statistiques Inférentielles
 
