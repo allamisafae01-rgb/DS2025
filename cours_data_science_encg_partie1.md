@@ -1,6 +1,9 @@
 # COURS DE SCIENCE DES DONNÉES
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
+<img width="1389" height="989" alt="image1" src="https://github.com/user-attachments/assets/8a62329a-9eb8-4bab-9035-5b9724f8f8c3" />
 # S. ALLAMI
+![SAFAE ALLAMI](https://github.com/user-attachments/assets/a9c0be90-504f-47f2-a4d7-e911f7e99e37)
+
 ---
 
 # PARTIE 1 : FONDAMENTAUX DE LA SCIENCE DES DONNÉES
@@ -284,6 +287,9 @@ axes[1, 1].set_title('Q-Q Plot (Test de normalité)', fontsize=14, fontweight='b
 
 plt.tight_layout()
 plt.show()
+
+<img width="1389" height="989" alt="image1" src="https://github.com/user-attachments/assets/8a62329a-9eb8-4bab-9035-5b9724f8f8c3" />
+
 ```
 
 ### 2.3 Statistiques Inférentielles
