@@ -1,11 +1,11 @@
-#SAFAE ALLAMI
+# S. ALLAMI
+<img width="320" height="426" alt="image" src="https://github.com/user-attachments/assets/2a73d750-0547-4e9d-af32-d6c77d7b086c" />
 
-file:///C:/Users/HP/Documents/S7%20ENCG/SAFAE%20ALLAMI.jpg
 
-#THEME
+# THEME
 Analyse des facteurs physico-chimiques influençant la qualité des vins portugais (rouges et blancs)
 
-#Descriptif complet (Qui ? Quoi ? Où ? Quand ? Comment ? Pourquoi ?)
+# Descriptif complet (Qui ? Quoi ? Où ? Quand ? Comment ? Pourquoi ?)
 1. Qui ?
 
 Le jeu de données a été constitué par des chercheurs portugais appartenant à l’Université de Minho, en collaboration avec des spécialistes de l’œnologie.
@@ -93,7 +93,7 @@ Construire des modèles de prédiction de la qualité (régression ou classifica
 
 Aider les producteurs à optimiser les processus de vinification
 
-#Informations essentielles à retenir
+# Informations essentielles à retenir
 | Élément             | Détails                                |
 | ------------------- | -------------------------------------- |
 | Nom                 | Wine Quality Dataset                   |
