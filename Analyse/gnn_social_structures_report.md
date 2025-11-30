@@ -1,4 +1,6 @@
 # Compte Rendu Détaillé – Learning Social Structures with GNN
+# S. ALLAMI
+<img width="320" height="426" alt="image" src="https://github.com/user-attachments/assets/2a73d750-0547-4e9d-af32-d6c77d7b086c" />
 
 ## 🎯 Objectif du Notebook
 Le notebook **"Learning Social Structures with GNN"** se concentre sur l'utilisation des **Graph Neural Networks (GNN)** pour analyser des réseaux sociaux et en apprendre la **structure sous-jacente**. L'objectif est de combiner les informations relatives aux nœuds (caractéristiques des individus) et aux arêtes (relations entre eux) afin de générer des **représentations vectorielles puissantes** permettant diverses analyses : détection de communautés, classification de nœuds et prédiction de liens.
